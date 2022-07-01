@@ -1,0 +1,11 @@
+
+tại cảng x có M loại container, N loại thùng hàng, mỗi loại có 1 số lượng cụ thể. Do nhu cầu vận chuyển hàng hóa hiện nay tăng cao, để tiêt kiệm chi phí, thời gian, tối ưu hóa tài nguyên trong quá trình vận chuyển hàng hóa. gs với vai trò là 1 ng qly' bạn hay đưa ra giải pháp phù hợp để sort các thùng hàng vào contaienr 1 cách phù hợp 
+
+
+để sort th 1 cachs hợp lý, ta cần tính ...
+
+Theo yêu cầu của thực  thì ta cần những đồ vật có trọng tải cao mà thể  lại 
+nhỏ để sao cho có thể mang được nhiều đồ có giá trị nhất, sẽ là hợp lý khi ta quan 
+tâm đến yếu tố “đơn giá” của từng loại đồ vật tức là tỷ lệ giá trị/trọng lượng. Ðơn 
+giá càng cao thì đồ càng quý. Từ đó ta có kỹ thuật tham lam để áp dụng cho bài toán 
+này là: 

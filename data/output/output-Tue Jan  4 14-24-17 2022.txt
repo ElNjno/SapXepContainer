@@ -1,0 +1,99 @@
+
+			      Danh Sach Cac Container Da Chon
+
+	Loai	The Tich	Trong Tai	So Luong Da Chon	So Luong Con Lai
+	Con1	37.440		28280.000	2			0
+	Con4	55.200		25500.000	1			0
+	Con2	76.128		26750.000	2			0
+	Con3	84.912		26580.000	3			0
+
+	              ****************************************             
+
+
+
+	           Danh Sach Ket Qua Sap Xep Container Xuat Khau
+
+	Loai Container	id	The Tich Con Lai	trong Tai Con Lai
+	Con1		0	0.018			21159.904
+
+	              ----------------------------------------             
+	Ten Thung Hang	The Tich TH	Trong Tai TH	So Luong
+	Thung hang 6	1.607		306.937		23
+	Thung hang 1	0.117		15.136		4
+
+	-------------------------------------------------------------------
+	Loai Container	id	The Tich Con Lai	trong Tai Con Lai
+	Con1		1	0.056			21243.668
+
+	              ----------------------------------------             
+	Ten Thung Hang	The Tich TH	Trong Tai TH	So Luong
+	Thung hang 6	1.607		306.937		21
+	Thung hang 14	1.471		249.919		2
+	Thung hang 1	0.117		15.136		6
+
+	-------------------------------------------------------------------
+	Loai Container	id	The Tich Con Lai	trong Tai Con Lai
+	Con4		0	0.048			16112.496
+
+	              ----------------------------------------             
+	Ten Thung Hang	The Tich TH	Trong Tai TH	So Luong
+	Thung hang 15	4.158		710.827		13
+	Thung hang 2	0.924		125.658		1
+	Thung hang 1	0.117		15.136		1
+	Thung hang 7	0.064		5.959		1
+
+	-------------------------------------------------------------------
+	Loai Container	id	The Tich Con Lai	trong Tai Con Lai
+	Con2		0	0.034			13779.178
+
+	              ----------------------------------------             
+	Ten Thung Hang	The Tich TH	Trong Tai TH	So Luong
+	Thung hang 15	4.158		710.827		18
+	Thung hang 17	1.258		175.936		1
+
+	-------------------------------------------------------------------
+	Loai Container	id	The Tich Con Lai	trong Tai Con Lai
+	Con2		1	0.011			13760.465
+
+	              ----------------------------------------             
+	Ten Thung Hang	The Tich TH	Trong Tai TH	So Luong
+	Thung hang 15	4.158		710.827		13
+	Thung hang 14	1.471		249.919		15
+
+	-------------------------------------------------------------------
+	Loai Container	id	The Tich Con Lai	trong Tai Con Lai
+	Con3		0	0.037			14252.402
+
+	              ----------------------------------------             
+	Ten Thung Hang	The Tich TH	Trong Tai TH	So Luong
+	Thung hang 14	1.471		249.919		11
+	Thung hang 17	1.258		175.936		54
+	Thung hang 1	0.117		15.136		2
+	Thung hang 7	0.064		5.959		8
+
+	-------------------------------------------------------------------
+	Loai Container	id	The Tich Con Lai	trong Tai Con Lai
+	Con3		1	0.007			14861.239
+
+	              ----------------------------------------             
+	Ten Thung Hang	The Tich TH	Trong Tai TH	So Luong
+	Thung hang 17	1.258		175.936		40
+	Thung hang 2	0.924		125.658		37
+	Thung hang 18	0.339		30.858		1
+	Thung hang 8	0.062		1.115		1
+
+	-------------------------------------------------------------------
+	Loai Container	id	The Tich Con Lai	trong Tai Con Lai
+	Con3		2	0.046			15393.469
+
+	              ----------------------------------------             
+	Ten Thung Hang	The Tich TH	Trong Tai TH	So Luong
+	Thung hang 2	0.924		125.658		2
+	Thung hang 19	2.205		297.784		26
+	Thung hang 5	1.653		208.013		15
+	Thung hang 18	0.339		30.858		2
+	Thung hang 12	0.214		10.921		1
+
+	-------------------------------------------------------------------
+
+		Thoi gian xuat bao cao: Tue Jan  4 14:24:17 2022
